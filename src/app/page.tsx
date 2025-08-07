@@ -201,7 +201,6 @@ export default function Home() {
 
   return (
     <div className="relative z-0 pt-18 md:pt-28 pb-18 flex flex-col gap-9 md:gap-12">
-    dateRange = {JSON.stringify(dateRange)}
       <div className="flex flex-col gap-6">
         <h1 className="text-5xl inter-tight text-black">Hello staff@hbkworld.com</h1>
         <h2 className="text-4xl inter-tight text-black">Welcome to your Weather app</h2>
